@@ -1,5 +1,5 @@
 # Joint Probability of Getting a Five Star in Normal Lucky Draw of Genshin Impact
-Calculation code for my classmate's IB Math Mock IA.
+Calculation code for my classmate's IB Math Mock IA. The current code is configured to print the reciprocal of the series. Remove `1.0 /` in the last line to disable that.
 
 Licensed under MIT. Attribution (link to this page/my user page) is required for referencing.
 
